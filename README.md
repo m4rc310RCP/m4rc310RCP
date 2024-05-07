@@ -1,4 +1,4 @@
-### Olá eu sou o Marcelo. 🫶
+### Hi... I'm **Marcelo.** 🫶
 
 ---
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=M4rc310&url=https://m4rc310.com.br)](https://m4rc310.com.br)
+"I firmly believe that open-source software initiatives make a difference in people's lives. Join me in shaping a future where freedom and innovation thrive."
